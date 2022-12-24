@@ -1,1 +1,1 @@
-Java Script By Nitin Gaikwad
+This projects contains examples of java script concepts
